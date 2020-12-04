@@ -3,7 +3,7 @@
 
 
 
-Vagas (somente vagas de back-end)
+
 Espaço para a divulgação de vagas para problemas via desenvolvedores do Github.
 
 Vagas disponíveis em https://github.com/backend-br/vagas/issues
